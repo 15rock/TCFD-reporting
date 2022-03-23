@@ -1,6 +1,6 @@
 # 15Rock is proud to share an open-source TCFD reporting survey.
 
-The underlying and main pillars are TCFD. Our goal is:
+We believe increasing transparency and access would help us all work together to fight climate change. The underlying and main pillars are TCFD. Our goal is:
 
 - Simplicity 
   - At different levels of company's maturity (startups to large fortune 500s)
